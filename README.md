@@ -15,6 +15,8 @@ I Google Chrome:</br>
 I Mozilla Firefox:</br>
 ![](res/tmfirefox.png "Firefox")
 
+
+
 ## STEG 2. Installera skriptet till skripthanteraren
  - Klicka på en av skript-länkarna nedan och klicka på Installera enligt bilden. </br>
  ![](res/tampermonkeyInstall.png "Installera")
