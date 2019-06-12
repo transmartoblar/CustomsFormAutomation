@@ -16,7 +16,8 @@ I Mozilla Firefox:</br>
 ![](res/tmfirefox.png "Firefox")
 
 ## STEG 2. Installera skriptet till skripthanteraren
- - Klicka på en av skript-länkarna nedan och klicka på Installera
+ - Klicka på en av skript-länkarna nedan och klicka på Installera enligt bilden. </br>
+ ![](res/tampermonkeyInstall.png "Installera")
  
    - [Jouni N](https://github.com/transmartoblar/CustomsFormAutomation/raw/master/Scripts/CustomsFormAutomation-Jouni-N.user.js)
    - [Kai K](https://github.com/transmartoblar/CustomsFormAutomation/raw/master/Scripts/CustomsFormAutomation-Kai-K.user.js)
