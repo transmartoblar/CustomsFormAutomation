@@ -6,6 +6,8 @@
 // @author       toblar
 // @match        https://link.webropolsurveys.com/Participation/Public/63d02a36-566e-42a5-b948-0ea27a779ca7?displayId=Fin1520863
 // @match        https://link.webropolsurveys.com/Participation/Public/63d02a36-566e-42a5-b948-0ea27a779ca7?displayId=Fin1520863&surveyLocale=sv
+// @match        https://link.webropolsurveys.com/Participation/Public/f2f8fee1-1430-4c3d-939a-0d6dd0b399dc?displayId=Fin2066775&surveyLocale=sv
+// @match        https://link.webropolsurveys.com/Participation/Public/f2f8fee1-1430-4c3d-939a-0d6dd0b399dc?displayId=Fin2066775
 // ==/UserScript==
 
 
