@@ -14,7 +14,7 @@
 var name = "Björn";
 var surname = "Andersson";
 var telnr = "018-27011";
-var epostUser = "lars.welroos@transmar.fi";
+var epostUser = "bjorn.andersson@budbil.ax";
 var companyname = "Transmar Ab";
 var foNr = "0144866-7";
 var companyTelnr = "018-27011";
