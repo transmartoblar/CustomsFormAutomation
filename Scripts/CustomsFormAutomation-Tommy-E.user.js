@@ -14,7 +14,7 @@
 var name = "Tommy";
 var surname = "Eriksson";
 var telnr = "018-27011";
-var epostUser = "tommi.eriksson@budbil.ax";
+var epostUser = "tommy.eriksson@budbil.ax";
 var companyname = "Transmar Ab";
 var foNr = "0144866-7";
 var companyTelnr = "018-27011";
